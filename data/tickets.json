@@ -1,0 +1,42 @@
+[
+  {
+    "id": "INC-1041",
+    "subject": "Får ikke logget inn etter passordbytte",
+    "body": "Hei! Jeg byttet passord i går og nå kommer jeg ikke inn på PC-en eller Teams. Den sier at passordet er feil. Mvh Kari, økonomi"
+  },
+  {
+    "id": "INC-1042",
+    "subject": "Hele 3. etasje mangler nett",
+    "body": "Ingen på 3. etasje i bygg B har nettverk, verken kablet eller trådløst. Ca. 40 personer berørt."
+  },
+  {
+    "id": "INC-1043",
+    "subject": "Skriveren skriver ut blanke ark",
+    "body": "Skriveren ved kantina (2. etg) skriver bare ut blanke ark. Har prøvd å skru den av og på."
+  },
+  {
+    "id": "INC-1044",
+    "subject": "Trenger tilgang til prosjektmappe",
+    "body": "Jeg er ny i prosjektteamet og trenger tilgang til fellesmappen «Prosjekt Nord» på SharePoint."
+  },
+  {
+    "id": "INC-1045",
+    "subject": "Mistenkelig e-post med lenke",
+    "body": "Fikk en e-post fra «IT-avdelingen» som ba meg logge inn via en lenke. Jeg skrev inn passordet før jeg skjønte noe."
+  },
+  {
+    "id": "INC-1046",
+    "subject": "Ny ansatt starter mandag",
+    "body": "En ny konsulent starter mandag og trenger PC, konto, e-post og Teams."
+  },
+  {
+    "id": "INC-1047",
+    "subject": "Excel fryser med stor fil",
+    "body": "Excel henger seg opp når jeg åpner budsjettfilen (ca. 80 MB). Andre filer fungerer."
+  },
+  {
+    "id": "INC-1048",
+    "subject": "Projektoren på møterom Fjord virker ikke",
+    "body": "Får ikke bilde på skjermen i møterom Fjord via HDMI. Har møte om 20 min."
+  }
+]

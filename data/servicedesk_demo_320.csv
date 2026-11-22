@@ -1,0 +1,321 @@
+﻿sak_id,dato,uke,kategori,prioritet,kanal,ai_sikkerhet,ai_kategori_riktig,sendt_til_menneske,grunn_til_menneske,lost_automatisk,min_manuelt,min_med_ai,min_spart
+INC100072,2026-09-28,40,Maskinvare,Middels,E-post,0.83,Ja,Nei,,Nei,33,12,21
+INC100232,2026-09-28,40,Programvare og lisenser,Høy,E-post,0.82,Ja,Nei,,Nei,20,8,12
+INC100056,2026-09-29,40,Bestilling av utstyr,Middels,Portal,0.89,Ja,Nei,,Ja,16,2,14
+INC100144,2026-09-29,40,Microsoft 365 / Teams,Lav,E-post,0.62,Nei,Ja,Lav AI-sikkerhet,Nei,11,8,3
+INC100151,2026-09-29,40,Programvare og lisenser,Lav,E-post,0.83,Ja,Nei,,Nei,23,12,11
+INC100178,2026-09-29,40,Passord og tilgang,Høy,Portal,0.86,Ja,Nei,,Ja,10,3,7
+INC100229,2026-09-29,40,Microsoft 365 / Teams,Høy,Portal,0.85,Ja,Nei,,Nei,16,7,9
+INC100259,2026-09-29,40,Programvare og lisenser,Lav,Telefon,0.96,Ja,Nei,,Nei,21,9,12
+INC100281,2026-09-29,40,Passord og tilgang,Høy,E-post,0.98,Ja,Nei,,Ja,13,2,11
+INC100062,2026-09-30,40,Microsoft 365 / Teams,Middels,E-post,0.88,Ja,Nei,,Ja,23,2,21
+INC100091,2026-09-30,40,Microsoft 365 / Teams,Middels,Telefon,0.99,Ja,Nei,,Ja,20,3,17
+INC100102,2026-09-30,40,Microsoft 365 / Teams,Middels,Portal,0.84,Ja,Nei,,Ja,12,1,11
+INC100160,2026-09-30,40,Microsoft 365 / Teams,Lav,E-post,0.98,Ja,Nei,,Nei,20,11,9
+INC100164,2026-09-30,40,Nettverk og VPN,Høy,Portal,0.93,Ja,Nei,,Nei,35,13,22
+INC100192,2026-09-30,40,Maskinvare,Middels,E-post,0.89,Ja,Nei,,Nei,33,16,17
+INC100202,2026-09-30,40,Bestilling av utstyr,Lav,Portal,0.98,Ja,Nei,,Ja,12,3,9
+INC100238,2026-09-30,40,Microsoft 365 / Teams,Høy,Portal,0.87,Ja,Nei,,Ja,18,3,15
+INC100271,2026-09-30,40,ERP / SAP,Middels,E-post,0.95,Ja,Nei,,Nei,36,16,20
+INC100292,2026-09-30,40,Bestilling av utstyr,Høy,E-post,0.94,Ja,Nei,,Ja,15,3,12
+INC100298,2026-09-30,40,Sikkerhet / phishing,Lav,E-post,0.98,Ja,Ja,Sikkerhet,Nei,36,33,3
+INC100299,2026-09-30,40,Maskinvare,Høy,Portal,0.87,Ja,Nei,,Nei,23,12,11
+INC100011,2026-10-01,40,Sikkerhet / phishing,Lav,E-post,0.92,Ja,Ja,Sikkerhet,Nei,22,17,5
+INC100022,2026-10-01,40,Nettverk og VPN,Middels,E-post,0.95,Ja,Nei,,Nei,31,12,19
+INC100025,2026-10-01,40,Maskinvare,Middels,Portal,0.92,Ja,Nei,,Nei,18,7,11
+INC100127,2026-10-01,40,Nettverk og VPN,Lav,Portal,0.9,Ja,Nei,,Nei,26,11,15
+INC100139,2026-10-01,40,Programvare og lisenser,Høy,Portal,0.48,Nei,Ja,Lav AI-sikkerhet,Nei,21,16,5
+INC100141,2026-10-01,40,ERP / SAP,Middels,E-post,0.94,Ja,Nei,,Nei,37,15,22
+INC100175,2026-10-01,40,Sikkerhet / phishing,Middels,E-post,0.98,Ja,Ja,Sikkerhet,Nei,33,29,4
+INC100201,2026-10-01,40,Bestilling av utstyr,Lav,Portal,0.94,Ja,Nei,,Nei,23,10,13
+INC100214,2026-10-01,40,Bestilling av utstyr,Lav,Telefon,0.89,Ja,Nei,,Nei,14,7,7
+INC100222,2026-10-01,40,Bestilling av utstyr,Høy,Portal,0.87,Ja,Nei,,Ja,13,1,12
+INC100294,2026-10-01,40,Microsoft 365 / Teams,Høy,E-post,0.83,Ja,Nei,,Nei,21,8,13
+INC100016,2026-10-02,40,Bestilling av utstyr,Middels,E-post,0.98,Ja,Nei,,Nei,18,7,11
+INC100029,2026-10-02,40,Programvare og lisenser,Middels,E-post,0.83,Ja,Nei,,Nei,22,11,11
+INC100073,2026-10-02,40,Programvare og lisenser,Lav,Portal,0.85,Ja,Nei,,Nei,18,7,11
+INC100136,2026-10-02,40,Programvare og lisenser,Middels,Portal,0.88,Ja,Nei,,Nei,14,6,8
+INC100279,2026-10-02,40,ERP / SAP,Lav,Telefon,0.9,Ja,Nei,,Nei,36,17,19
+INC100001,2026-10-05,41,Passord og tilgang,Lav,E-post,0.94,Ja,Nei,,Ja,13,1,12
+INC100049,2026-10-05,41,Programvare og lisenser,Høy,Portal,0.66,Nei,Ja,Lav AI-sikkerhet,Nei,33,28,5
+INC100078,2026-10-05,41,Maskinvare,Middels,Telefon,0.83,Ja,Nei,,Nei,27,14,13
+INC100128,2026-10-05,41,Microsoft 365 / Teams,Middels,Portal,0.83,Ja,Nei,,Ja,25,1,24
+INC100226,2026-10-05,41,ERP / SAP,Middels,Telefon,0.94,Ja,Nei,,Nei,47,25,22
+INC100103,2026-10-06,41,ERP / SAP,Høy,E-post,0.87,Ja,Ja,Forretningskritisk system,Nei,51,46,5
+INC100113,2026-10-06,41,Maskinvare,Høy,E-post,0.84,Ja,Nei,,Nei,25,9,16
+INC100145,2026-10-06,41,Passord og tilgang,Lav,Portal,0.91,Ja,Nei,,Nei,12,6,6
+INC100166,2026-10-06,41,Passord og tilgang,Middels,E-post,0.92,Ja,Nei,,Nei,9,4,5
+INC100181,2026-10-06,41,ERP / SAP,Middels,E-post,0.84,Ja,Nei,,Nei,35,14,21
+INC100185,2026-10-06,41,Bestilling av utstyr,Middels,Portal,0.89,Ja,Nei,,Nei,13,5,8
+INC100241,2026-10-06,41,ERP / SAP,Middels,E-post,0.88,Ja,Nei,,Nei,46,19,27
+INC100254,2026-10-06,41,Maskinvare,Lav,Portal,0.95,Ja,Nei,,Nei,21,9,12
+INC100287,2026-10-06,41,ERP / SAP,Middels,E-post,0.56,Nei,Ja,Lav AI-sikkerhet,Nei,45,43,2
+INC100307,2026-10-06,41,ERP / SAP,Middels,E-post,0.9,Ja,Nei,,Nei,30,13,17
+INC100093,2026-10-07,41,Passord og tilgang,Høy,E-post,0.89,Ja,Nei,,Nei,14,8,6
+INC100096,2026-10-07,41,Microsoft 365 / Teams,Middels,Portal,0.85,Ja,Nei,,Ja,14,3,11
+INC100097,2026-10-07,41,Microsoft 365 / Teams,Middels,Portal,0.97,Ja,Nei,,Nei,14,5,9
+INC100125,2026-10-07,41,Maskinvare,Middels,E-post,0.83,Ja,Nei,,Nei,35,15,20
+INC100235,2026-10-07,41,Microsoft 365 / Teams,Middels,E-post,0.96,Ja,Nei,,Nei,28,13,15
+INC100248,2026-10-07,41,Passord og tilgang,Middels,E-post,0.83,Ja,Nei,,Nei,14,8,6
+INC100303,2026-10-07,41,Passord og tilgang,Middels,E-post,0.96,Ja,Nei,,Ja,17,3,14
+INC100309,2026-10-07,41,Passord og tilgang,Lav,E-post,0.94,Ja,Nei,,Nei,11,6,5
+INC100314,2026-10-07,41,Passord og tilgang,Middels,E-post,0.89,Ja,Nei,,Ja,17,1,16
+INC100013,2026-10-08,41,Programvare og lisenser,Kritisk,Telefon,0.91,Ja,Ja,Kritisk prioritet,Nei,27,23,4
+INC100126,2026-10-08,41,Microsoft 365 / Teams,Middels,Portal,0.83,Ja,Nei,,Nei,15,6,9
+INC100171,2026-10-08,41,Nettverk og VPN,Høy,Portal,0.91,Ja,Nei,,Nei,31,12,19
+INC100183,2026-10-08,41,Programvare og lisenser,Middels,Portal,0.82,Ja,Nei,,Nei,28,11,17
+INC100200,2026-10-08,41,Programvare og lisenser,Høy,Telefon,0.85,Ja,Nei,,Nei,27,11,16
+INC100231,2026-10-08,41,Passord og tilgang,Middels,E-post,0.99,Ja,Nei,,Nei,16,9,7
+INC100240,2026-10-08,41,Maskinvare,Middels,Portal,0.91,Ja,Nei,,Nei,48,24,24
+INC100040,2026-10-09,41,Maskinvare,Kritisk,E-post,0.88,Ja,Ja,Kritisk prioritet,Nei,33,29,4
+INC100134,2026-10-09,41,Maskinvare,Middels,Portal,0.95,Ja,Nei,,Nei,30,13,17
+INC100206,2026-10-09,41,Bestilling av utstyr,Middels,Telefon,0.89,Ja,Nei,,Nei,16,8,8
+INC100266,2026-10-09,41,Microsoft 365 / Teams,Lav,E-post,0.92,Ja,Nei,,Nei,15,6,9
+INC100319,2026-10-09,41,Microsoft 365 / Teams,Lav,Portal,0.92,Ja,Nei,,Ja,17,2,15
+INC100320,2026-10-09,41,Programvare og lisenser,Lav,E-post,0.91,Ja,Nei,,Nei,17,7,10
+INC100006,2026-10-12,42,Sikkerhet / phishing,Lav,Portal,0.85,Ja,Ja,Sikkerhet,Nei,32,28,4
+INC100058,2026-10-12,42,Nettverk og VPN,Høy,Portal,0.98,Ja,Nei,,Nei,31,16,15
+INC100115,2026-10-12,42,Bestilling av utstyr,Lav,Portal,0.91,Ja,Nei,,Nei,6,3,3
+INC100133,2026-10-12,42,Microsoft 365 / Teams,Lav,Portal,0.91,Ja,Nei,,Ja,21,1,20
+INC100209,2026-10-12,42,Bestilling av utstyr,Middels,Portal,0.58,Nei,Ja,Lav AI-sikkerhet,Nei,13,10,3
+INC100236,2026-10-12,42,Microsoft 365 / Teams,Høy,E-post,0.68,Nei,Ja,Lav AI-sikkerhet,Nei,23,21,2
+INC100262,2026-10-12,42,ERP / SAP,Middels,E-post,0.89,Ja,Nei,,Nei,49,22,27
+INC100318,2026-10-12,42,Maskinvare,Kritisk,E-post,0.8,Nei,Ja,Kritisk prioritet,Nei,29,26,3
+INC100076,2026-10-13,42,Passord og tilgang,Lav,E-post,0.92,Ja,Nei,,Ja,16,2,14
+INC100199,2026-10-13,42,Passord og tilgang,Høy,E-post,0.84,Ja,Nei,,Nei,10,4,6
+INC100210,2026-10-13,42,Nettverk og VPN,Middels,Portal,0.91,Ja,Nei,,Nei,13,5,8
+INC100288,2026-10-13,42,Maskinvare,Middels,Portal,0.94,Ja,Nei,,Nei,40,16,24
+INC100306,2026-10-13,42,Microsoft 365 / Teams,Høy,Telefon,0.96,Ja,Nei,,Ja,15,1,14
+INC100012,2026-10-14,42,Bestilling av utstyr,Høy,E-post,0.94,Ja,Nei,,Ja,18,2,16
+INC100032,2026-10-14,42,Programvare og lisenser,Lav,Telefon,0.93,Ja,Nei,,Nei,26,9,17
+INC100114,2026-10-14,42,Passord og tilgang,Middels,Portal,0.9,Ja,Nei,,Ja,16,3,13
+INC100161,2026-10-14,42,Passord og tilgang,Middels,E-post,0.83,Ja,Nei,,Ja,11,2,9
+INC100176,2026-10-14,42,Passord og tilgang,Kritisk,E-post,0.92,Ja,Ja,Kritisk prioritet,Nei,19,17,2
+INC100224,2026-10-14,42,Passord og tilgang,Middels,Telefon,0.84,Ja,Nei,,Ja,13,3,10
+INC100264,2026-10-14,42,Nettverk og VPN,Middels,Telefon,0.89,Ja,Nei,,Nei,22,10,12
+INC100070,2026-10-15,42,Nettverk og VPN,Kritisk,Portal,0.84,Ja,Ja,Kritisk prioritet,Nei,25,22,3
+INC100081,2026-10-15,42,Maskinvare,Middels,E-post,0.9,Ja,Nei,,Nei,30,14,16
+INC100123,2026-10-15,42,Maskinvare,Høy,Portal,0.74,Nei,Ja,Lav AI-sikkerhet,Nei,26,24,2
+INC100150,2026-10-15,42,Programvare og lisenser,Middels,Portal,0.97,Ja,Nei,,Nei,31,16,15
+INC100204,2026-10-15,42,Passord og tilgang,Lav,E-post,0.86,Ja,Nei,,Ja,12,2,10
+INC100234,2026-10-15,42,Programvare og lisenser,Lav,Portal,0.89,Ja,Nei,,Nei,21,8,13
+INC100244,2026-10-15,42,Passord og tilgang,Middels,Portal,0.87,Ja,Nei,,Nei,10,4,6
+INC100005,2026-10-16,42,Sikkerhet / phishing,Middels,Telefon,0.94,Ja,Ja,Sikkerhet,Nei,35,31,4
+INC100071,2026-10-16,42,Microsoft 365 / Teams,Lav,E-post,0.87,Ja,Nei,,Nei,24,11,13
+INC100083,2026-10-16,42,Nettverk og VPN,Middels,Portal,0.83,Ja,Nei,,Nei,28,15,13
+INC100154,2026-10-16,42,Microsoft 365 / Teams,Lav,E-post,0.93,Ja,Nei,,Nei,16,6,10
+INC100169,2026-10-16,42,Nettverk og VPN,Kritisk,E-post,0.83,Ja,Ja,Kritisk prioritet,Nei,33,31,2
+INC100179,2026-10-16,42,Nettverk og VPN,Lav,E-post,0.89,Ja,Nei,,Nei,18,8,10
+INC100220,2026-10-16,42,Microsoft 365 / Teams,Høy,Portal,0.95,Ja,Nei,,Nei,21,8,13
+INC100301,2026-10-16,42,ERP / SAP,Lav,E-post,0.88,Ja,Nei,,Nei,35,15,20
+INC100018,2026-10-19,43,Passord og tilgang,Middels,Portal,0.94,Ja,Nei,,Nei,10,4,6
+INC100019,2026-10-19,43,Passord og tilgang,Lav,Portal,0.84,Ja,Nei,,Nei,16,6,10
+INC100033,2026-10-19,43,ERP / SAP,Middels,E-post,0.91,Ja,Nei,,Nei,39,21,18
+INC100042,2026-10-19,43,Maskinvare,Middels,E-post,0.91,Ja,Nei,,Nei,39,16,23
+INC100152,2026-10-19,43,ERP / SAP,Lav,E-post,0.94,Ja,Nei,,Nei,49,25,24
+INC100296,2026-10-19,43,ERP / SAP,Lav,E-post,0.92,Ja,Nei,,Nei,50,22,28
+INC100035,2026-10-20,43,Passord og tilgang,Lav,E-post,0.97,Ja,Nei,,Ja,9,1,8
+INC100121,2026-10-20,43,Sikkerhet / phishing,Høy,E-post,0.83,Ja,Ja,Sikkerhet,Nei,28,26,2
+INC100174,2026-10-20,43,Passord og tilgang,Høy,Portal,0.95,Ja,Nei,,Nei,13,6,7
+INC100184,2026-10-20,43,Passord og tilgang,Lav,Portal,0.93,Ja,Nei,,Nei,11,5,6
+INC100243,2026-10-20,43,Maskinvare,Lav,E-post,0.88,Ja,Nei,,Nei,36,18,18
+INC100265,2026-10-20,43,Microsoft 365 / Teams,Middels,E-post,0.96,Ja,Nei,,Ja,23,1,22
+INC100272,2026-10-20,43,Sikkerhet / phishing,Lav,Telefon,0.96,Ja,Ja,Sikkerhet,Nei,25,22,3
+INC100106,2026-10-21,43,Passord og tilgang,Lav,E-post,0.92,Ja,Nei,,Nei,11,5,6
+INC100120,2026-10-21,43,Sikkerhet / phishing,Middels,Portal,0.88,Ja,Ja,Sikkerhet,Nei,29,27,2
+INC100132,2026-10-21,43,Passord og tilgang,Høy,E-post,0.91,Ja,Nei,,Nei,18,9,9
+INC100167,2026-10-21,43,Programvare og lisenser,Lav,E-post,0.87,Ja,Nei,,Nei,19,9,10
+INC100187,2026-10-21,43,ERP / SAP,Lav,Telefon,0.85,Ja,Nei,,Nei,28,10,18
+INC100215,2026-10-21,43,Bestilling av utstyr,Lav,Telefon,0.88,Ja,Nei,,Ja,13,1,12
+INC100282,2026-10-21,43,Microsoft 365 / Teams,Lav,Telefon,0.89,Ja,Nei,,Nei,25,12,13
+INC100291,2026-10-21,43,Maskinvare,Lav,Portal,0.48,Nei,Ja,Lav AI-sikkerhet,Nei,34,31,3
+INC100004,2026-10-22,43,Passord og tilgang,Høy,Portal,0.94,Ja,Nei,,Ja,17,3,14
+INC100052,2026-10-22,43,Nettverk og VPN,Middels,E-post,0.91,Ja,Nei,,Nei,36,13,23
+INC100054,2026-10-22,43,Sikkerhet / phishing,Kritisk,E-post,0.91,Ja,Ja,Sikkerhet,Nei,23,20,3
+INC100061,2026-10-22,43,Microsoft 365 / Teams,Middels,E-post,0.93,Ja,Nei,,Nei,24,12,12
+INC100090,2026-10-22,43,Programvare og lisenser,Lav,E-post,0.92,Ja,Nei,,Nei,13,7,6
+INC100108,2026-10-22,43,Programvare og lisenser,Middels,Portal,0.6,Nei,Ja,Lav AI-sikkerhet,Nei,28,25,3
+INC100157,2026-10-22,43,Sikkerhet / phishing,Lav,E-post,0.95,Ja,Ja,Sikkerhet,Nei,28,25,3
+INC100162,2026-10-22,43,Microsoft 365 / Teams,Lav,Portal,0.96,Ja,Nei,,Nei,15,8,7
+INC100182,2026-10-22,43,Sikkerhet / phishing,Middels,Telefon,0.96,Ja,Ja,Sikkerhet,Nei,31,27,4
+INC100197,2026-10-22,43,Bestilling av utstyr,Lav,E-post,0.84,Ja,Nei,,Ja,24,2,22
+INC100252,2026-10-22,43,Microsoft 365 / Teams,Høy,E-post,0.85,Ja,Nei,,Nei,18,9,9
+INC100263,2026-10-22,43,Passord og tilgang,Lav,E-post,0.96,Ja,Nei,,Ja,7,1,6
+INC100009,2026-10-23,43,Microsoft 365 / Teams,Lav,Telefon,0.87,Ja,Nei,,Ja,15,3,12
+INC100028,2026-10-23,43,Passord og tilgang,Middels,Portal,0.98,Ja,Nei,,Nei,11,5,6
+INC100044,2026-10-23,43,Maskinvare,Lav,E-post,0.92,Ja,Nei,,Nei,28,12,16
+INC100105,2026-10-23,43,Bestilling av utstyr,Høy,E-post,0.82,Ja,Nei,,Nei,11,5,6
+INC100165,2026-10-23,43,Microsoft 365 / Teams,Høy,Portal,0.5,Nei,Ja,Lav AI-sikkerhet,Nei,12,10,2
+INC100216,2026-10-23,43,Programvare og lisenser,Middels,E-post,0.82,Ja,Nei,,Nei,15,7,8
+INC100237,2026-10-23,43,Microsoft 365 / Teams,Middels,E-post,0.85,Ja,Nei,,Nei,13,6,7
+INC100045,2026-10-26,44,Nettverk og VPN,Middels,Portal,0.71,Nei,Ja,Lav AI-sikkerhet,Nei,25,21,4
+INC100085,2026-10-26,44,ERP / SAP,Lav,Portal,0.6,Nei,Ja,Lav AI-sikkerhet,Nei,38,35,3
+INC100137,2026-10-26,44,Passord og tilgang,Lav,E-post,0.99,Ja,Nei,,Nei,15,7,8
+INC100140,2026-10-26,44,Programvare og lisenser,Middels,E-post,0.89,Ja,Nei,,Nei,21,10,11
+INC100219,2026-10-26,44,Maskinvare,Middels,E-post,0.89,Ja,Nei,,Nei,36,14,22
+INC100245,2026-10-26,44,Microsoft 365 / Teams,Lav,E-post,0.9,Ja,Nei,,Nei,14,5,9
+INC100286,2026-10-26,44,Microsoft 365 / Teams,Lav,Portal,0.92,Ja,Nei,,Ja,16,1,15
+INC100312,2026-10-26,44,ERP / SAP,Lav,Portal,0.84,Ja,Nei,,Nei,30,11,19
+INC100057,2026-10-27,44,Microsoft 365 / Teams,Middels,E-post,0.96,Ja,Nei,,Ja,18,2,16
+INC100065,2026-10-27,44,Maskinvare,Middels,E-post,0.88,Ja,Nei,,Nei,27,11,16
+INC100069,2026-10-27,44,Microsoft 365 / Teams,Lav,E-post,0.84,Ja,Nei,,Nei,11,4,7
+INC100107,2026-10-27,44,Bestilling av utstyr,Lav,E-post,0.98,Ja,Nei,,Nei,14,6,8
+INC100278,2026-10-27,44,Bestilling av utstyr,Lav,E-post,0.94,Ja,Nei,,Nei,9,4,5
+INC100308,2026-10-27,44,Microsoft 365 / Teams,Lav,E-post,0.96,Ja,Nei,,Nei,21,8,13
+INC100099,2026-10-28,44,Passord og tilgang,Lav,E-post,0.94,Ja,Nei,,Nei,18,7,11
+INC100153,2026-10-28,44,Programvare og lisenser,Lav,E-post,0.96,Ja,Nei,,Nei,14,5,9
+INC100180,2026-10-28,44,Programvare og lisenser,Lav,E-post,0.87,Ja,Nei,,Nei,24,13,11
+INC100198,2026-10-28,44,Passord og tilgang,Høy,E-post,0.87,Ja,Nei,,Nei,14,7,7
+INC100223,2026-10-28,44,Microsoft 365 / Teams,Lav,Telefon,0.9,Ja,Nei,,Ja,22,1,21
+INC100228,2026-10-28,44,ERP / SAP,Lav,E-post,0.83,Ja,Nei,,Nei,56,28,28
+INC100251,2026-10-28,44,Microsoft 365 / Teams,Kritisk,Telefon,0.94,Ja,Ja,Kritisk prioritet,Nei,12,9,3
+INC100260,2026-10-28,44,Microsoft 365 / Teams,Lav,Portal,0.83,Ja,Nei,,Ja,14,2,12
+INC100317,2026-10-28,44,Programvare og lisenser,Middels,Telefon,0.49,Nei,Ja,Lav AI-sikkerhet,Nei,20,18,2
+INC100015,2026-10-29,44,Passord og tilgang,Høy,Telefon,0.87,Ja,Nei,,Nei,18,7,11
+INC100023,2026-10-29,44,Programvare og lisenser,Høy,Telefon,0.82,Ja,Nei,,Nei,12,5,7
+INC100051,2026-10-29,44,Maskinvare,Lav,E-post,0.87,Ja,Nei,,Nei,30,11,19
+INC100055,2026-10-29,44,Passord og tilgang,Middels,E-post,0.94,Ja,Nei,,Nei,11,6,5
+INC100067,2026-10-29,44,Maskinvare,Lav,Portal,0.9,Ja,Nei,,Nei,42,21,21
+INC100082,2026-10-29,44,Bestilling av utstyr,Middels,E-post,0.84,Ja,Nei,,Nei,28,12,16
+INC100087,2026-10-29,44,Bestilling av utstyr,Lav,Portal,0.9,Ja,Nei,,Nei,11,5,6
+INC100094,2026-10-29,44,Sikkerhet / phishing,Lav,E-post,0.98,Ja,Ja,Sikkerhet,Nei,33,30,3
+INC100168,2026-10-29,44,Programvare og lisenser,Høy,E-post,0.94,Ja,Nei,,Nei,36,20,16
+INC100172,2026-10-29,44,Passord og tilgang,Middels,E-post,0.91,Ja,Nei,,Ja,13,3,10
+INC100212,2026-10-29,44,Passord og tilgang,Middels,Portal,0.91,Ja,Nei,,Nei,17,8,9
+INC100249,2026-10-29,44,Maskinvare,Lav,E-post,0.98,Ja,Nei,,Nei,29,13,16
+INC100268,2026-10-29,44,Passord og tilgang,Høy,Telefon,0.9,Ja,Nei,,Nei,17,7,10
+INC100269,2026-10-29,44,Passord og tilgang,Middels,Portal,0.83,Ja,Nei,,Nei,12,6,6
+INC100270,2026-10-29,44,Maskinvare,Lav,E-post,0.96,Ja,Nei,,Nei,42,19,23
+INC100277,2026-10-29,44,Passord og tilgang,Middels,Portal,0.83,Ja,Nei,,Ja,13,2,11
+INC100280,2026-10-29,44,ERP / SAP,Høy,Portal,0.93,Ja,Ja,Forretningskritisk system,Nei,47,42,5
+INC100002,2026-10-30,44,Maskinvare,Middels,Portal,0.89,Ja,Nei,,Nei,33,15,18
+INC100026,2026-10-30,44,Passord og tilgang,Lav,Portal,0.86,Ja,Nei,,Nei,12,6,6
+INC100088,2026-10-30,44,ERP / SAP,Lav,E-post,0.97,Ja,Nei,,Nei,42,23,19
+INC100089,2026-10-30,44,Microsoft 365 / Teams,Lav,Portal,0.92,Ja,Nei,,Ja,13,3,10
+INC100177,2026-10-30,44,Nettverk og VPN,Middels,Portal,0.93,Ja,Nei,,Nei,33,17,16
+INC100193,2026-10-30,44,ERP / SAP,Høy,Telefon,0.83,Ja,Ja,Forretningskritisk system,Nei,44,40,4
+INC100275,2026-10-30,44,Bestilling av utstyr,Middels,E-post,0.72,Nei,Ja,Lav AI-sikkerhet,Nei,25,22,3
+INC100297,2026-10-30,44,Microsoft 365 / Teams,Middels,Portal,0.86,Ja,Nei,,Nei,23,9,14
+INC100010,2026-11-02,45,Programvare og lisenser,Middels,E-post,0.88,Ja,Nei,,Nei,17,8,9
+INC100143,2026-11-02,45,Microsoft 365 / Teams,Høy,Portal,0.96,Ja,Nei,,Ja,18,2,16
+INC100186,2026-11-02,45,Microsoft 365 / Teams,Kritisk,Portal,0.99,Ja,Ja,Kritisk prioritet,Nei,17,12,5
+INC100227,2026-11-02,45,Microsoft 365 / Teams,Lav,Portal,0.87,Ja,Nei,,Nei,12,4,8
+INC100247,2026-11-02,45,Bestilling av utstyr,Kritisk,Portal,0.88,Ja,Ja,Kritisk prioritet,Nei,17,12,5
+INC100258,2026-11-02,45,Maskinvare,Middels,E-post,0.95,Ja,Nei,,Nei,36,15,21
+INC100310,2026-11-02,45,ERP / SAP,Lav,Portal,0.84,Ja,Nei,,Nei,71,26,45
+INC100075,2026-11-03,45,Maskinvare,Middels,Portal,0.52,Nei,Ja,Lav AI-sikkerhet,Nei,38,35,3
+INC100122,2026-11-03,45,Programvare og lisenser,Lav,Portal,0.88,Ja,Nei,,Nei,27,10,17
+INC100131,2026-11-03,45,Programvare og lisenser,Middels,E-post,0.98,Ja,Nei,,Nei,28,14,14
+INC100135,2026-11-03,45,ERP / SAP,Middels,Telefon,0.93,Ja,Nei,,Nei,26,10,16
+INC100205,2026-11-03,45,Nettverk og VPN,Lav,Portal,0.89,Ja,Nei,,Nei,22,11,11
+INC100211,2026-11-03,45,Passord og tilgang,Høy,Telefon,0.91,Ja,Nei,,Ja,15,3,12
+INC100239,2026-11-03,45,Nettverk og VPN,Lav,Telefon,0.86,Ja,Nei,,Nei,36,19,17
+INC100257,2026-11-03,45,Bestilling av utstyr,Middels,E-post,0.98,Ja,Nei,,Nei,15,6,9
+INC100274,2026-11-03,45,Microsoft 365 / Teams,Lav,Portal,0.94,Ja,Nei,,Nei,13,6,7
+INC100300,2026-11-03,45,Microsoft 365 / Teams,Middels,Telefon,0.96,Ja,Nei,,Ja,22,2,20
+INC100313,2026-11-03,45,Programvare og lisenser,Middels,Portal,0.89,Ja,Nei,,Nei,15,6,9
+INC100316,2026-11-03,45,Programvare og lisenser,Lav,E-post,0.86,Ja,Nei,,Nei,17,6,11
+INC100027,2026-11-04,45,Maskinvare,Middels,E-post,0.91,Ja,Nei,,Nei,40,16,24
+INC100092,2026-11-04,45,Microsoft 365 / Teams,Lav,Portal,0.97,Ja,Nei,,Ja,12,3,9
+INC100098,2026-11-04,45,Microsoft 365 / Teams,Kritisk,Portal,0.87,Ja,Ja,Kritisk prioritet,Nei,19,14,5
+INC100112,2026-11-04,45,Passord og tilgang,Høy,E-post,0.97,Ja,Nei,,Nei,12,5,7
+INC100117,2026-11-04,45,Maskinvare,Lav,Telefon,0.9,Ja,Nei,,Nei,32,17,15
+INC100142,2026-11-04,45,Nettverk og VPN,Høy,E-post,0.93,Ja,Nei,,Nei,39,18,21
+INC100207,2026-11-04,45,Nettverk og VPN,Lav,Portal,0.83,Ja,Nei,,Nei,32,16,16
+INC100302,2026-11-04,45,Bestilling av utstyr,Kritisk,Portal,0.91,Ja,Ja,Kritisk prioritet,Nei,21,18,3
+INC100041,2026-11-05,45,Bestilling av utstyr,Lav,Telefon,0.83,Ja,Nei,,Ja,11,3,8
+INC100066,2026-11-05,45,Nettverk og VPN,Lav,E-post,0.48,Nei,Ja,Lav AI-sikkerhet,Nei,29,24,5
+INC100074,2026-11-05,45,Maskinvare,Middels,Portal,0.97,Ja,Nei,,Nei,32,17,15
+INC100079,2026-11-05,45,ERP / SAP,Middels,E-post,0.94,Ja,Nei,,Nei,33,14,19
+INC100080,2026-11-05,45,Passord og tilgang,Middels,E-post,0.84,Ja,Nei,,Nei,5,3,2
+INC100124,2026-11-05,45,Bestilling av utstyr,Høy,E-post,0.94,Ja,Nei,,Ja,11,1,10
+INC100146,2026-11-05,45,Microsoft 365 / Teams,Lav,Portal,0.96,Ja,Nei,,Ja,13,2,11
+INC100155,2026-11-05,45,Programvare og lisenser,Middels,Portal,0.87,Ja,Nei,,Nei,27,10,17
+INC100163,2026-11-05,45,Bestilling av utstyr,Lav,E-post,0.88,Ja,Nei,,Ja,14,2,12
+INC100203,2026-11-05,45,Passord og tilgang,Kritisk,E-post,0.64,Nei,Ja,Kritisk prioritet,Nei,5,0,5
+INC100225,2026-11-05,45,Passord og tilgang,Lav,Portal,0.93,Ja,Nei,,Nei,12,5,7
+INC100246,2026-11-05,45,Maskinvare,Lav,E-post,0.89,Ja,Nei,,Nei,32,16,16
+INC100255,2026-11-05,45,Programvare og lisenser,Middels,Portal,0.69,Nei,Ja,Lav AI-sikkerhet,Nei,13,9,4
+INC100289,2026-11-05,45,Programvare og lisenser,Middels,E-post,0.97,Ja,Nei,,Nei,28,11,17
+INC100290,2026-11-05,45,Passord og tilgang,Høy,E-post,0.87,Ja,Nei,,Nei,11,6,5
+INC100059,2026-11-06,45,Passord og tilgang,Lav,Portal,0.86,Ja,Nei,,Nei,10,5,5
+INC100189,2026-11-06,45,ERP / SAP,Lav,E-post,0.91,Ja,Nei,,Nei,38,16,22
+INC100233,2026-11-06,45,Maskinvare,Høy,Telefon,0.82,Ja,Nei,,Nei,26,12,14
+INC100293,2026-11-06,45,Passord og tilgang,Lav,E-post,0.99,Ja,Nei,,Ja,13,1,12
+INC100007,2026-11-09,46,Microsoft 365 / Teams,Høy,Portal,0.85,Ja,Nei,,Nei,18,7,11
+INC100020,2026-11-09,46,Programvare og lisenser,Middels,Portal,0.93,Ja,Nei,,Nei,19,7,12
+INC100031,2026-11-09,46,Passord og tilgang,Høy,E-post,0.95,Ja,Nei,,Ja,13,3,10
+INC100068,2026-11-09,46,Maskinvare,Middels,Portal,0.95,Ja,Nei,,Nei,36,15,21
+INC100111,2026-11-09,46,Passord og tilgang,Middels,Telefon,0.88,Ja,Nei,,Nei,17,6,11
+INC100156,2026-11-09,46,Passord og tilgang,Kritisk,E-post,0.91,Ja,Ja,Kritisk prioritet,Nei,12,10,2
+INC100194,2026-11-09,46,Programvare og lisenser,Lav,Telefon,0.91,Ja,Nei,,Nei,25,12,13
+INC100218,2026-11-09,46,Programvare og lisenser,Middels,Telefon,0.86,Ja,Nei,,Nei,35,16,19
+INC100221,2026-11-09,46,Programvare og lisenser,Middels,E-post,0.92,Ja,Nei,,Nei,22,10,12
+INC100100,2026-11-10,46,ERP / SAP,Kritisk,Telefon,0.96,Ja,Ja,Kritisk prioritet,Nei,43,39,4
+INC100110,2026-11-10,46,Microsoft 365 / Teams,Høy,Portal,0.87,Ja,Nei,,Nei,22,12,10
+INC100116,2026-11-10,46,Passord og tilgang,Middels,E-post,0.87,Ja,Nei,,Ja,14,3,11
+INC100147,2026-11-10,46,Nettverk og VPN,Kritisk,Portal,0.95,Ja,Ja,Kritisk prioritet,Nei,29,24,5
+INC100190,2026-11-10,46,Passord og tilgang,Middels,E-post,0.97,Ja,Nei,,Ja,10,3,7
+INC100213,2026-11-10,46,ERP / SAP,Middels,E-post,0.95,Ja,Nei,,Nei,37,18,19
+INC100230,2026-11-10,46,Microsoft 365 / Teams,Middels,Portal,0.95,Ja,Nei,,Nei,22,8,14
+INC100261,2026-11-10,46,ERP / SAP,Høy,Portal,0.91,Ja,Ja,Forretningskritisk system,Nei,35,30,5
+INC100008,2026-11-11,46,Maskinvare,Middels,Portal,0.86,Ja,Nei,,Nei,30,15,15
+INC100024,2026-11-11,46,Bestilling av utstyr,Kritisk,Portal,0.85,Ja,Ja,Kritisk prioritet,Nei,20,16,4
+INC100034,2026-11-11,46,Bestilling av utstyr,Middels,Portal,0.85,Ja,Nei,,Ja,15,1,14
+INC100043,2026-11-11,46,Microsoft 365 / Teams,Lav,E-post,0.69,Nei,Ja,Lav AI-sikkerhet,Nei,23,19,4
+INC100077,2026-11-11,46,Sikkerhet / phishing,Lav,E-post,0.95,Ja,Ja,Sikkerhet,Nei,19,16,3
+INC100256,2026-11-11,46,Bestilling av utstyr,Middels,Portal,0.95,Ja,Nei,,Nei,13,5,8
+INC100267,2026-11-11,46,Bestilling av utstyr,Høy,E-post,0.87,Ja,Nei,,Nei,18,9,9
+INC100276,2026-11-11,46,Sikkerhet / phishing,Lav,Portal,0.95,Ja,Ja,Sikkerhet,Nei,19,14,5
+INC100284,2026-11-11,46,Passord og tilgang,Lav,E-post,0.84,Ja,Nei,,Ja,12,2,10
+INC100295,2026-11-11,46,Passord og tilgang,Middels,E-post,0.96,Ja,Nei,,Ja,12,1,11
+INC100305,2026-11-11,46,Bestilling av utstyr,Middels,Portal,0.91,Ja,Nei,,Nei,13,6,7
+INC100030,2026-11-12,46,Microsoft 365 / Teams,Kritisk,Portal,0.93,Ja,Ja,Kritisk prioritet,Nei,22,18,4
+INC100060,2026-11-12,46,Passord og tilgang,Høy,Telefon,0.82,Ja,Nei,,Nei,7,3,4
+INC100086,2026-11-12,46,Passord og tilgang,Middels,Portal,0.99,Ja,Nei,,Ja,11,1,10
+INC100095,2026-11-12,46,Sikkerhet / phishing,Middels,Portal,0.83,Ja,Ja,Sikkerhet,Nei,32,28,4
+INC100188,2026-11-12,46,Microsoft 365 / Teams,Middels,Portal,0.91,Ja,Nei,,Ja,18,2,16
+INC100196,2026-11-12,46,Passord og tilgang,Middels,E-post,0.98,Ja,Nei,,Nei,14,6,8
+INC100208,2026-11-12,46,ERP / SAP,Middels,Portal,0.58,Nei,Ja,Lav AI-sikkerhet,Nei,46,43,3
+INC100283,2026-11-12,46,Passord og tilgang,Lav,E-post,0.91,Ja,Nei,,Nei,12,6,6
+INC100017,2026-11-13,46,Nettverk og VPN,Middels,E-post,0.88,Ja,Nei,,Nei,34,13,21
+INC100021,2026-11-13,46,Microsoft 365 / Teams,Høy,E-post,0.9,Ja,Nei,,Ja,15,3,12
+INC100119,2026-11-13,46,Passord og tilgang,Middels,Portal,0.85,Ja,Nei,,Ja,13,3,10
+INC100158,2026-11-13,46,Nettverk og VPN,Lav,Portal,0.84,Ja,Nei,,Nei,30,14,16
+INC100173,2026-11-13,46,Programvare og lisenser,Middels,E-post,0.84,Ja,Nei,,Nei,21,10,11
+INC100195,2026-11-13,46,Nettverk og VPN,Høy,E-post,0.98,Ja,Nei,,Nei,27,14,13
+INC100217,2026-11-13,46,Maskinvare,Middels,Portal,0.88,Ja,Nei,,Nei,32,11,21
+INC100253,2026-11-13,46,Programvare og lisenser,Middels,E-post,0.94,Ja,Nei,,Nei,26,13,13
+INC100304,2026-11-13,46,Microsoft 365 / Teams,Lav,Telefon,0.98,Ja,Nei,,Ja,10,1,9
+INC100039,2026-11-16,47,Microsoft 365 / Teams,Middels,E-post,0.64,Nei,Ja,Lav AI-sikkerhet,Nei,20,16,4
+INC100047,2026-11-16,47,Passord og tilgang,Middels,Portal,0.94,Ja,Nei,,Nei,10,5,5
+INC100048,2026-11-16,47,Programvare og lisenser,Lav,Telefon,0.83,Ja,Nei,,Nei,22,12,10
+INC100101,2026-11-16,47,ERP / SAP,Middels,E-post,0.93,Ja,Nei,,Nei,33,16,17
+INC100118,2026-11-16,47,Maskinvare,Høy,E-post,0.89,Ja,Nei,,Nei,33,14,19
+INC100129,2026-11-16,47,Passord og tilgang,Lav,E-post,0.95,Ja,Nei,,Nei,13,6,7
+INC100242,2026-11-16,47,Maskinvare,Middels,Telefon,0.93,Ja,Nei,,Nei,39,17,22
+INC100285,2026-11-16,47,Sikkerhet / phishing,Høy,Portal,0.83,Ja,Ja,Sikkerhet,Nei,21,18,3
+INC100311,2026-11-16,47,Bestilling av utstyr,Lav,Portal,0.93,Ja,Nei,,Ja,12,1,11
+INC100138,2026-11-17,47,ERP / SAP,Lav,Telefon,0.85,Ja,Nei,,Nei,47,21,26
+INC100191,2026-11-17,47,Bestilling av utstyr,Middels,E-post,0.9,Ja,Nei,,Nei,9,3,6
+INC100003,2026-11-18,47,Sikkerhet / phishing,Middels,E-post,0.87,Ja,Ja,Sikkerhet,Nei,33,31,2
+INC100036,2026-11-18,47,Sikkerhet / phishing,Høy,E-post,0.88,Ja,Ja,Sikkerhet,Nei,36,31,5
+INC100037,2026-11-18,47,Nettverk og VPN,Middels,E-post,0.94,Ja,Nei,,Nei,27,11,16
+INC100104,2026-11-18,47,Microsoft 365 / Teams,Høy,Portal,0.83,Ja,Nei,,Nei,27,14,13
+INC100130,2026-11-18,47,Microsoft 365 / Teams,Lav,Portal,0.9,Ja,Nei,,Nei,22,11,11
+INC100170,2026-11-18,47,Nettverk og VPN,Høy,E-post,0.83,Ja,Nei,,Nei,38,20,18
+INC100273,2026-11-18,47,ERP / SAP,Middels,Telefon,0.89,Ja,Nei,,Nei,27,14,13
+INC100315,2026-11-18,47,Programvare og lisenser,Middels,Portal,0.99,Ja,Nei,,Nei,23,10,13
+INC100038,2026-11-19,47,Bestilling av utstyr,Lav,Portal,0.86,Ja,Nei,,Ja,16,1,15
+INC100046,2026-11-19,47,Bestilling av utstyr,Lav,E-post,0.85,Ja,Nei,,Nei,12,5,7
+INC100064,2026-11-19,47,ERP / SAP,Lav,Telefon,0.83,Ja,Nei,,Nei,25,10,15
+INC100084,2026-11-19,47,Bestilling av utstyr,Middels,Portal,0.85,Ja,Nei,,Nei,17,8,9
+INC100149,2026-11-19,47,Passord og tilgang,Middels,Telefon,0.9,Ja,Nei,,Nei,7,3,4
+INC100159,2026-11-19,47,Nettverk og VPN,Høy,Portal,0.62,Nei,Ja,Lav AI-sikkerhet,Nei,30,25,5
+INC100250,2026-11-19,47,Sikkerhet / phishing,Middels,Portal,0.92,Ja,Ja,Sikkerhet,Nei,39,36,3
+INC100014,2026-11-20,47,Maskinvare,Middels,E-post,0.91,Ja,Nei,,Nei,52,24,28
+INC100050,2026-11-20,47,Bestilling av utstyr,Middels,E-post,0.9,Ja,Nei,,Ja,13,3,10
+INC100053,2026-11-20,47,Programvare og lisenser,Høy,Portal,0.97,Ja,Nei,,Nei,23,12,11
+INC100063,2026-11-20,47,Programvare og lisenser,Lav,E-post,0.93,Ja,Nei,,Nei,13,6,7
+INC100109,2026-11-20,47,Programvare og lisenser,Middels,Telefon,0.88,Ja,Nei,,Nei,9,3,6
+INC100148,2026-11-20,47,Passord og tilgang,Middels,Portal,0.95,Ja,Nei,,Ja,14,1,13
